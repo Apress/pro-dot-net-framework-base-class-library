@@ -13,10 +13,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{44C5C863-DB88-4A8F-8596-EB61A304DB1C}</ProjectGuid>
-    <SccProjectName>SAK</SccProjectName>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccProvider>SAK</SccProvider>
+    <SccProjectName></SccProjectName>
+    <SccAuxPath></SccAuxPath>
+    <SccLocalPath></SccLocalPath>
+    <SccProvider></SccProvider>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <Keyword>ManagedCProj</Keyword>
     <RootNamespace>Listing_A_9</RootNamespace>
