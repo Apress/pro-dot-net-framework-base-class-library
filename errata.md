@@ -1,4 +1,4 @@
-# Errata for *Book Title*
+# Errata for *Pro .NET Framework with the Base Class Library*
 
 On **page 2** [text correction]:
  
